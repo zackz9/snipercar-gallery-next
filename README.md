@@ -1,4 +1,4 @@
-This is a Modern Next.js 13 Application and gallery cars,
+This is a Modern Next.js 13 Application and gallery to search of rent cars,
 Using React, Next JS 13, TypeScript, Tailwind CSS, and API Cars by API-Ninjas, and Image Studio API for images
 
 https://github.com/vercel/next.js/tree/canary/packages/create-next-app).

@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Modern Next.js 13 Application and gallery cars,
+Using React, Next JS 13, TypeScript, Tailwind CSS, and API Cars by API-Ninjas, and Image Studio API for images
+
+https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+
+![Screenshot_snipercar-nt](https://github.com/zackz9/snipercar-gallery-next/assets/47887047/02985ddb-57ee-4522-8d42-0d6b88bfc8fa)
 
 ## Getting Started
 
